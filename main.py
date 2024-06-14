@@ -43,7 +43,8 @@ def index():
             <title>Some HTML in here</title>
         </head>
         <body>
-            <h1>Look ma! HTML!</h1>
+            <h1>NetPro No.9</h1>
+            <p>PythonとRender</p>
         </body>
     </html>
     """
